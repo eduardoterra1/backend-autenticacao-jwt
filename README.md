@@ -15,7 +15,7 @@ Tutorial apresentado [nesse vídeo](https://youtu.be/kEJ8a1w4a2Q) para demonstra
 ## Como Executar
 - Clonar repositório git:
 ```
-git clone https://github.com/giuliana-bezerra/spring-security-jwt.git
+git clone https://github.com/seu-repositorio
 ```
 
 - Construir o projeto:
